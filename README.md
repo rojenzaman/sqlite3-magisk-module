@@ -6,6 +6,10 @@ This Magisk module provides a statically linked and stripped `sqlite3` binary fo
 
 ## Changelog
 
+2021-07-26: v1.5
+
+- Updated to SQLite 3.36.0.
+
 2021-04-25: v1.4
 
 - Updated to SQLite 3.35.5.
