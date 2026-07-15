@@ -1,6 +1,6 @@
 ZIP_FILES := customize.sh META-INF module.prop system
-VERSION = v3.51.1
-VERSIONCODE = 20260106
+VERSION = v3.53.3
+VERSIONCODE = 20260715
 .PHONY: module.prop system/bin zip
 
 default: module.prop system/bin zip
